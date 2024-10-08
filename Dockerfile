@@ -5,6 +5,7 @@ RUN apt install git -y
 COPY requirements.txt /requirements.txt
 
 RUN cd /
+RUN pip install motor pymongo --upgrade
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
 RUN mkdir /EvaMaria
 WORKDIR /EvaMaria
