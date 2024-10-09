@@ -9,3 +9,17 @@ pytz
 bs4
 imdbpy==2021.4.18
 aiohttp
+
+pyrogram
+TgCrypto
+pyromod==1.5
+pymongo==4.8.0
+motor==3.4.0
+dnspython==-2.3.0
+hachoir==-3.2.0
+aiohttp
+python-dotenv
+shortzy
+pytz==-2023.3
+requests
+pyrofork
