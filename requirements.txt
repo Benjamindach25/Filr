@@ -4,6 +4,9 @@ pymongo==4.5.0
 motor==3.0.0
 marshmallow==3.18.0
 umongo==3.1.0
+speedtest-cli
+ujson
+tgcrypto
 requests
 pytz
 bs4
