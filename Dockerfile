@@ -2,7 +2,6 @@ FROM python:3.10-slim-buster
 
 RUN apt update && apt upgrade -y
 RUN apt install git -y
-pip install hydrogram -U
 COPY requirements.txt /requirements.txt
 
 RUN cd /
