@@ -1,7 +1,6 @@
 git+https://github.com/cinemagoer/cinemagoer
 git+https://github.com/hydrogram/hydrogram
 pymongo==4.8.0
-pyrogram>=2.0.59
 pytz
 bs4
 imdbpy==2021.4.18
