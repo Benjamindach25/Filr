@@ -1,6 +1,6 @@
 git+https://github.com/cinemagoer/cinemagoer
 git+https://github.com/AmanoTeam/pyrogram
-
+pyrogram>=2.0.59
 pymongo==4.8.0
 pytz
 bs4
