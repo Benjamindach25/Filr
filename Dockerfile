@@ -1,7 +1,6 @@
 FROM python:3.10-slim-buster
 
 RUN apt update && apt upgrade -y
-RUN pip install 'pyrogram @ git+https://github.com/AmanoTeam/pyrogram.git@v2.0.106+amn9'
 RUN apt install git -y
 COPY requirements.txt /requirements.txt
 
