@@ -1,5 +1,6 @@
 git+https://github.com/cinemagoer/cinemagoer
-git+https://github.com/hydrogram/hydrogram
+git+https://github.com/AmanoTeam/pyrogram
+
 pymongo==4.8.0
 pytz
 bs4
